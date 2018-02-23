@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+ <entry key="overview">ui.controller.handler.UserOverviewHandler</entry>
+ <entry key="home">ui.controller.handler.HomeHandler</entry>
+ <entry key="addProduct">ui.controller.handler.AddProductHandler</entry>
+ <entry key="createProduct">ui.controller.handler.CreateProductHandler</entry>
+ <entry key="products">ui.controller.handler.ProductOverviewHandler</entry>
+ <entry key="signUp">ui.controller.handler.AddUserHandler</entry>
+ <entry key="create">ui.controller.handler.CreateUserHandler</entry>
+ <entry key="update">ui.controller.handler.UpdateProductFormHandler</entry>
+ <entry key="updateP">ui.controller.handler.UpdateProductConfirmationFormHandler</entry>
+ <entry key="updatePerson">ui.controller.handler.UpdateUserFormHandler</entry>
+ <entry key="updatePersonConfirmation">ui.controller.handler.UpdateUserConfirmationFormHandler</entry>
+ <entry key="delete">ui.controller.handler.DeleteProductConfirmationHandler</entry>
+ <entry key="deleteConfirmed">ui.controller.handler.DeleteProductHandler</entry>
+ <entry key="deletePerson">ui.controller.handler.DeleteUserHandler</entry>
+ <entry key="pw">ui.controller.handler.PasswordCheckRedirectHandler</entry>
+ <entry key="CheckPw">ui.controller.handler.PasswordCheckHandler</entry>
+ <entry key="Color">ui.controller.handler.ColorHandler</entry>
+ 
+</properties>
